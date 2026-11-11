@@ -19,7 +19,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ## 🔥 Battle the Sylvanas
 
-## 📒 Descrição
+## 📒 Descrição.
 Notícia fictícia anunciando a expansão "Battle the Sylvanas" 
 de World of Warcraft, com Sylvanas como personagem central 
 e o Bardo como nova classe jogável. Criada com IA Generativa.
